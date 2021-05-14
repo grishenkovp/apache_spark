@@ -1,2 +1,2 @@
-# Spark
-Изучение Spark. PySpark
+# Apache Spark
+Изучение Apache Spark. Библиотека PySpark
