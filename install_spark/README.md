@@ -13,7 +13,7 @@
 
 ### 3. Разархивация пакета и перемещение файлов
 * tar -xzf spark-3.3.1-bin-hadoop3.tgz
-* mv spark-3.3.0-bin-hadoop3 /home/pavel/spark
+* mv spark-3.3.1-bin-hadoop3 /home/pavel/spark
 
 ### 4. Настройка переменных окружения
 * nano ~/.bashrc
