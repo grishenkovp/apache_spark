@@ -9,7 +9,7 @@
 * wget -q https://archive.apache.org/dist/spark/spark-3.3.1/spark-3.3.1-bin-hadoop3.tgz
 
 ### 2. Проверка скаченного пакета (Windows)
-* certutil -hashfile .\spark-3.3.1-bin-hadoop3.tgz SHA512
+* shasum -a512 spark-3.3.1-bin-hadoop3.tgz
 
 ### 3. Разархивация пакета и перемещение файлов
 * tar -xzf spark-3.3.1-bin-hadoop3.tgz
