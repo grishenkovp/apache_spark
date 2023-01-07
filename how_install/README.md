@@ -8,7 +8,7 @@
 ### 1. Загрузка файла 
 * wget -q https://archive.apache.org/dist/spark/spark-3.3.1/spark-3.3.1-bin-hadoop3.tgz
 
-### 2. Проверка скаченного пакета (Windows)
+### 2. Проверка скаченного пакета
 * shasum -a512 spark-3.3.1-bin-hadoop3.tgz
 
 ### 3. Разархивация пакета и перемещение файлов
@@ -36,4 +36,3 @@
 ### 7. Создание файла init_spark_env.py
 
 ### 8. Импорт файла init_spark_env.py в рабочий ноутбук
-
